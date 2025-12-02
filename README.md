@@ -16,7 +16,8 @@ Storybook (design tokens + typed props) • Playwright/Jest/RTL • Vercel/AWS �
 
 ### 📫 Contact
 - **Email:** Jhonny218@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/jhonny-m-gonzalez/  
+- **LinkedIn:** https://www.linkedin.com/in/jhonny-m-gonzalez/
+- **Website:** https://www.jhonnygonzalez.dev/
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=fff)
